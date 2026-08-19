@@ -5,7 +5,7 @@
     "colab": {
       "provenance": [],
       "toc_visible": true,
-      "authorship_tag": "ABX9TyOJaHlnD0eFnCwyil679KqV",
+      "authorship_tag": "ABX9TyOlxIvkhipjR+7EEzfetJyi",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -58,15 +58,6 @@
       },
       "execution_count": null,
       "outputs": []
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "# Sección nueva"
-      ],
-      "metadata": {
-        "id": "VYmrmbYZeag7"
-      }
     }
   ]
 }
